@@ -1,0 +1,12 @@
+Fundamento
+
+
+Tipos
+Tipos de microcontroladores: Intel, Microchip, Arduino y ESP32
+
+https://dl.espressif.com/dl/package_esp32_index.json
+
+INSTALACION
+
+ESP32 Cam
+Adaptador FTDI
